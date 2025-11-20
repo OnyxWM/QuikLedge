@@ -26,8 +26,8 @@ A simple, powerful, and collaborative financial ledger application for tracking 
 For a quick setup that installs all dependencies and builds assets:
 
 ```bash
-git clone <repository-url>
-cd ledger-cursor
+git clone https://github.com/OnyxWM/QuikLedge
+cd QuikLedge
 composer launch
 ```
 
@@ -38,8 +38,8 @@ This will run `composer install`, `npm install`, and `npm run build` automatical
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd ledger-cursor
+git clone https://github.com/OnyxWM/QuikLedge
+cd QuikLedge
 ```
 
 ### 2. Install PHP Dependencies
